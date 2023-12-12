@@ -1,1 +1,3 @@
 # StickyNavigationBarOnScrollUsingVanillaJavascript_FixedNavbaronScroll
+
+ეს არის ნავიგაციის მენიუ ჯავასკრიპტით, ჩამოსქროლვის დროს უკანა ფონის ფერი ჩნდება და ასქროლვის დროს ქრება...
